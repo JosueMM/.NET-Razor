@@ -3,9 +3,9 @@ using Datos;
 using System.Collections.Generic;
 using System;
 
-namespace Logica
+namespace ASPRazor
 {
-    public class UsuarioBL : IUsuarioBL
+    public class UsuarioController : IUsuarioController
     {
         public UsuarioE AuntentificarUsuario(UsuarioE usuario)
         {

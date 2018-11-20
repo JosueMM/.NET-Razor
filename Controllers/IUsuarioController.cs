@@ -1,4 +1,4 @@
-using Entidades;
+using Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,10 +8,10 @@ using System.ServiceModel.Web;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Logica
+namespace  ASPRazor
 {
     [ServiceContract]
-    public interface IUsuarioBL
+    public interface IUsuarioController
     {
         [OperationContract]
         [Description("Servicio REST que permite registrar Usuarios")]

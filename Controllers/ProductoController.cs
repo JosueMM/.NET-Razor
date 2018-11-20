@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Datos;
-using Entidades;
+using Models;
 
-namespace Logica
+namespace ASPRazor
 {
-    public class ProductoBL : IProductoBL
+    public class ProductoController : IProductoController
     {
         public ProductoE BuscarProducto(int idProducto)
         {
