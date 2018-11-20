@@ -8,10 +8,10 @@ using System.ServiceModel.Web;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Logica
+namespace ASPRazor
 {
     [ServiceContract]
-    public interface IProductoBL
+    public interface IProductoController
     {
         [OperationContract]
         [Description("Servicio REST que permite registrar productos")]
