@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a4399c37-3a84-41fb-85a6-a7e9ac144610" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:55592/MilFraganciasService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MilFraganciasService.disco" MetadataType="Disco" ID="57cc65ea-1f28-4697-b3fa-8573a5062d13" SourceId="1" SourceUrl="http://localhost:55592/MilFraganciasService.svc?disco" />
+    <MetadataFile FileName="MilFraganciasService.xsd" MetadataType="Schema" ID="b5a18da9-2563-4ebd-9f9e-9695193f54d2" SourceId="1" SourceUrl="http://localhost:55592/MilFraganciasService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MilFraganciasService.wsdl" MetadataType="Wsdl" ID="af4a6494-2999-4f46-80ea-77b0434d5e9a" SourceId="1" SourceUrl="http://localhost:55592/MilFraganciasService.svc?wsdl" />
+    <MetadataFile FileName="MilFraganciasService1.xsd" MetadataType="Schema" ID="675c3848-ca52-4bca-b280-1b9504e96f90" SourceId="1" SourceUrl="http://localhost:55592/MilFraganciasService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MilFraganciasService2.xsd" MetadataType="Schema" ID="a9abad6a-6155-4f98-b8e6-d8f339ba0e4a" SourceId="1" SourceUrl="http://localhost:55592/MilFraganciasService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
