@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\ASPRazor\obj\Debug\netcoreapp2.0\ASPRazor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ASPRazor\obj\Debug\netcoreapp2.0\ASPRazor.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ASPRazor\obj\Debug\netcoreapp2.0\ASPRazor.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ASPRazor\bin\Debug\netcoreapp2.0\ASPRazor.deps.json
+C:\Users\Usuario\Desktop\ASPRazor\bin\Debug\netcoreapp2.0\ASPRazor.runtimeconfig.json
+C:\Users\Usuario\Desktop\ASPRazor\bin\Debug\netcoreapp2.0\ASPRazor.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ASPRazor\bin\Debug\netcoreapp2.0\ASPRazor.dll
+C:\Users\Usuario\Desktop\ASPRazor\bin\Debug\netcoreapp2.0\ASPRazor.pdb
+C:\Users\Usuario\Desktop\ASPRazor\obj\Debug\netcoreapp2.0\ASPRazor.dll
+C:\Users\Usuario\Desktop\ASPRazor\obj\Debug\netcoreapp2.0\ASPRazor.pdb
