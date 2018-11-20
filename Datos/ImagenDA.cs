@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 using Dapper;
 using Entidades;
 
-namespace Datos
+namespace ASPRazor
 {
     public class ImagenDA
     {

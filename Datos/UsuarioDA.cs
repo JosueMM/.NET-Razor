@@ -5,7 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using Dapper;
 
-namespace Datos
+namespace ASPRazor
 {
     public class UsuarioDA
     {
