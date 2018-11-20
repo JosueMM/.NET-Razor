@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using ASPRazor.Models;
 
 namespace ASPRazor.Models
 {
@@ -9,11 +10,11 @@ namespace ASPRazor.Models
         {
         }
 
-        public DbSet<Carrito> Carrito { get; set; }
-        public DbSet<Imagen> Imagen { get; set; }
-        public DbSet<Producto> Producto { get; set; }
-        public DbSet<Usuario> Usuario { get; set; }
-        public DbSet<TipoProducto> TipoProducto { get; set; }
+        public DbSet<Models.Carrito> Carrito { get; set; }
+        public DbSet<Models.Imagen> Imagen { get; set; }
+        public DbSet<Models.Producto> Producto { get; set; }
+        public DbSet<Models.Usuario> Usuario { get; set; }
+        public DbSet<Models.TipoProducto> TipoProducto { get; set; }
      
 
     }
